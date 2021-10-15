@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Somatória</string>
+    <string name="title">Somatória</string>
+    <string name="resultados">Resultados</string>
+    <string name="calcular">Calcular</string>
+    <string name="share">Compartilhar</string>
+    <string name="fail">Por favor, preencha ambos os campos com números de 4 dígitos</string>
+</resources>
